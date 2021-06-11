@@ -1,17 +1,18 @@
-{
-  "title": "Daughter of the emperor"
-  "description": "Ariadna Lereg Ilestri Pre Agrigenti. E così la mia vita inizia con questo nome ridicolmente lungo, nato dalla regalità e al centro dell'attenzione - tutto a causa di un uomo pericoloso; il re tiranno veramente pazzo, spietato conquistatore di dieci imperi, incubo di tutti i continenti... e mio padre?! Riuscirò a sopravvivere a questo maniaco?"
-  "artist": "Rino"
-  "author": "Yunsul"
-  "cover": "https://imgur.com/a/EpKPKTy"
+ {
+
+  "title": "Daughter of the emperor",
+  "description": "...",
+  "artist": "Rino",
+  "author": "Yunsul",
+  "cover": "https://d30womf5coomej.cloudfront.net/pc/4e/147edb8a-a7a3-46fa-9ed8-c263b22fcc11.jpg",
+  
   "chapters": {
-    "0": {
-      "title": "Prologo"
-      "volume": "1"
+  
+    "Prologo": {
+      "title": "The crazed emperor",
+      "volume": "1",
       "groups": {
         "Moonlight shadows scan": "/proxy/api/imgur/chapter/XItfyEN/"
-      }
-      "last_updated": "1616368746"
-    }
-  }
-}
+      },
+      "last_updated": "1618687661"
+    },
